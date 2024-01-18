@@ -39,7 +39,7 @@
       "label": "Exploits (NEW)",
       "system": "woinfoundry",
       "module": "woinfoundry",
-      "path": "packs/exploits.db",
+      "path": "packs/exploits",
       "type": "Item"
     },
     {
@@ -47,7 +47,7 @@
       "label": "General Items (NEW)",
       "system": "woinfoundry",
       "module": "woinfoundry",
-      "path": "packs/items.db",
+      "path": "packs/items",
       "type": "Item"
     },
     {
@@ -55,7 +55,7 @@
       "label": "Armor (NEW)",
       "system": "woinfoundry",
       "module": "woinfoundry",
-      "path": "packs/armor.db",
+      "path": "packs/armor",
       "type": "Item"
     },
     {
@@ -63,7 +63,7 @@
       "label": "Ranged Weapons Exotic (NEW)",
       "system": "woinfoundry",
       "module": "woinfoundry",
-      "path": "packs/weapons-ranged-exotic.db",
+      "path": "packs/weapons-ranged-exotic",
       "type": "Item"
     },
     {
@@ -71,7 +71,7 @@
       "label": "Ranged Weapons (NEW)",
       "system": "woinfoundry",
       "module": "woinfoundry",
-      "path": "packs/weapons-ranged.db",
+      "path": "packs/weapons-ranged",
       "type": "Item"
     },
     {
@@ -79,7 +79,7 @@
       "label": "Melee Weapons (NEW)",
       "system": "woinfoundry",
       "module": "woinfoundry",
-      "path": "packs/weapons-melee.db",
+      "path": "packs/weapons-melee",
       "type": "Item"
     },
     {
@@ -87,7 +87,7 @@
       "label": "Explosive Ordinance (NEW)",
       "system": "woinfoundry",
       "module": "woinfoundry",
-      "path": "packs/explosive-ordinance.db",
+      "path": "packs/explosive-ordinance",
       "type": "Item"
     },
     {
@@ -95,7 +95,7 @@
       "label": "Melee Weapons Exotic (NEW)",
       "system": "woinfoundry",
       "module": "woinfoundry",
-      "path": "packs/melee-weapons-exotic.db",
+      "path": "packs/melee-weapons-exotic",
       "type": "Item"
     },
     {
@@ -103,7 +103,7 @@
       "label": "Languages (NEW)",
       "system": "woinfoundry",
       "module": "woinfoundry",
-      "path": "packs/languages-new.db",
+      "path": "packs/languages-new",
       "type": "Item"
     }
   ]
